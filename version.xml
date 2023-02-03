@@ -1,13 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.0.4.1</version> 
+        <version>2.0.2.0</version> 
         <url>https://raw.githubusercontent.com/AlexDives/BirthUpdater/master/Birthday.exe</url> 
         <filePath>./Birthday.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>
-            Обновление от [04.02.2021]:
-        -- исправление сохранения персон --</description> 
+            Обновление от [03.02.2023]:
+        -- исправление подсчета даты рождения 02.29 числа --</description> 
         <launchArgs></launchArgs> 
     </update>
     <update> 
